@@ -8,8 +8,8 @@ Other than that, I will document my side projects as well as ML and DL topics th
 
 | Id | Module Session                                | Progress |
 |----|-----------------------------------------------|-----|
-|01  | python ( basics & data structures)            | :x: | 
-|02  | pandas                                        | :x: |
+|01  | python ( basics & data structures)            | :white_check_mark: | 
+|02  | pandas                                        | :white_check_mark: |
 |03  | matplotlib & seaborn                          | :x: | 
 |04  | sklearn , pyspark                             | :x: | 
 |05  | Machine Learning for Regression,regularization| :x: | 
